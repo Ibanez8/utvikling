@@ -1,1 +1,1 @@
-"# utvikling" 
+Dette er mitt første kodestunt
